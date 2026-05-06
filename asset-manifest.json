@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/netflix_portfolio/static/css/main.d5483b0f.css",
-    "main.js": "/netflix_portfolio/static/js/main.17256edd.js",
+    "main.css": "/netflix_portfolio/static/css/main.9fd37eac.css",
+    "main.js": "/netflix_portfolio/static/js/main.04e25892.js",
     "static/js/453.b0cd7502.chunk.js": "/netflix_portfolio/static/js/453.b0cd7502.chunk.js",
+    "static/media/keerthivasan.jpeg": "/netflix_portfolio/static/media/keerthivasan.d144fd9b932be217e7b1.jpeg",
     "static/media/Hotelcalifornia.jpg": "/netflix_portfolio/static/media/Hotelcalifornia.a1b2e230d97c00441c76.jpg",
-    "static/media/sumanth.jpeg": "/netflix_portfolio/static/media/sumanth.7debeeeb8c7c58cb52de.jpeg",
     "static/media/eat_that_frog.jpg": "/netflix_portfolio/static/media/eat_that_frog.813c8f47ac052b6d620c.jpg",
     "static/media/grey.png": "/netflix_portfolio/static/media/grey.bbfd7fb8e095529e355c.png",
     "static/media/blue.png": "/netflix_portfolio/static/media/blue.9b293a4a6ef065903a8f.png",
@@ -16,16 +16,14 @@
     "static/media/guns-n-roses.webp": "/netflix_portfolio/static/media/guns-n-roses.0fc43e1f941a88098915.webp",
     "static/media/logo-2.png": "/netflix_portfolio/static/media/logo-2.9e8dd2bfb0058d4c47d3.png",
     "static/media/rich_dad_poor_dad.jpg": "/netflix_portfolio/static/media/rich_dad_poor_dad.3e652088b5ec2c6f8709.jpg",
-    "static/media/vennelo_adapilla.jpeg": "/netflix_portfolio/static/media/vennelo_adapilla.967e77b93c4bf3f04209.jpeg",
-    "static/media/vijayaniki_aidu_metlu.jpg": "/netflix_portfolio/static/media/vijayaniki_aidu_metlu.2261ef74787f0c33960a.jpg",
     "static/media/ac-dc.jpg": "/netflix_portfolio/static/media/ac-dc.44867f491e8e97894eff.jpg",
     "index.html": "/netflix_portfolio/index.html",
-    "main.d5483b0f.css.map": "/netflix_portfolio/static/css/main.d5483b0f.css.map",
-    "main.17256edd.js.map": "/netflix_portfolio/static/js/main.17256edd.js.map",
+    "main.9fd37eac.css.map": "/netflix_portfolio/static/css/main.9fd37eac.css.map",
+    "main.04e25892.js.map": "/netflix_portfolio/static/js/main.04e25892.js.map",
     "453.b0cd7502.chunk.js.map": "/netflix_portfolio/static/js/453.b0cd7502.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5483b0f.css",
-    "static/js/main.17256edd.js"
+    "static/css/main.9fd37eac.css",
+    "static/js/main.04e25892.js"
   ]
 }
