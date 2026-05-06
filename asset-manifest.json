@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/netflix_portfolio/static/css/main.d5483b0f.css",
-    "main.js": "/netflix_portfolio/static/js/main.edb0944c.js",
+    "main.js": "/netflix_portfolio/static/js/main.17256edd.js",
     "static/js/453.b0cd7502.chunk.js": "/netflix_portfolio/static/js/453.b0cd7502.chunk.js",
     "static/media/Hotelcalifornia.jpg": "/netflix_portfolio/static/media/Hotelcalifornia.a1b2e230d97c00441c76.jpg",
     "static/media/sumanth.jpeg": "/netflix_portfolio/static/media/sumanth.7debeeeb8c7c58cb52de.jpeg",
@@ -21,11 +21,11 @@
     "static/media/ac-dc.jpg": "/netflix_portfolio/static/media/ac-dc.44867f491e8e97894eff.jpg",
     "index.html": "/netflix_portfolio/index.html",
     "main.d5483b0f.css.map": "/netflix_portfolio/static/css/main.d5483b0f.css.map",
-    "main.edb0944c.js.map": "/netflix_portfolio/static/js/main.edb0944c.js.map",
+    "main.17256edd.js.map": "/netflix_portfolio/static/js/main.17256edd.js.map",
     "453.b0cd7502.chunk.js.map": "/netflix_portfolio/static/js/453.b0cd7502.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d5483b0f.css",
-    "static/js/main.edb0944c.js"
+    "static/js/main.17256edd.js"
   ]
 }
